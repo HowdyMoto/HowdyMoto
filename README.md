@@ -1,4 +1,5 @@
-I'm a designer that loves to tinker with coding.
+I'm a designer that loves to tinker with code.
+Currently fascinated with CircuitPython-powered devices.
 
 <!---
 HowdyMoto/HowdyMoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
